@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trashcan
+* source:	https://sketchfab.com/3d-models/trashcan-f3c1e05626b8459a8981540c63cb23cb
+* author:	Minzkraut (https://sketchfab.com/Minzkraut)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trashcan" (https://sketchfab.com/3d-models/trashcan-f3c1e05626b8459a8981540c63cb23cb) by Minzkraut (https://sketchfab.com/Minzkraut) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
