@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "id":4,
+      "title":"Тоскана",
+      "country":"Италия",
+      "coords":"43.41667;11.0",
+      "image_url":"https://pressa.tv/uploads/posts/2016-07/1469604310_2.jpg",
+      "description":"Отпуск для тех, кто хочет насладиться изящным искусством и побывать на лучших пляжах Европы.",
+      "filters":
+      {
+        "price":1,
+        "sea":2,
+        "mountains":0,
+        "culture":2,
+        "architecture":1,
+        "shopping":0,
+        "entertainment":1,
+        "nature":2
+      }
+    },
+    {
+      "id":5,
+      "title":"Люксембург",
+      "country":"Люксембург",
+      "coords":"49.6117;6.13",
+      "image_url":"https://pressa.tv/uploads/posts/2016-07/1469604303_3.jpg",
+      "description":"Одно из замечательнейших мест для эксклюзивного, но очень дорогого отдыха.",
+      "filters":
+      {
+        "price":2,
+        "sea":0,
+        "mountains":0,
+        "culture":2,
+        "architecture":2,
+        "shopping":1,
+        "entertainment":1,
+        "nature":0
+      }
+    }.
+    {
+      "id":6,
+      "title":"Сингапур",
+      "country":"Сингапур",
+      "coords":"1.28967;103.85",
+      "image_url":"https://pressa.tv/uploads/posts/2016-07/1469604328_4.jpg",
+      "description":"Город-государство, который, буквально, источает атмосферу богатства и роскоши.",
+      "filters":
+      {
+        "price":2,
+        "sea":0,
+        "mountains":0,
+        "culture":1,
+        "architecture":2,
+        "shopping":1,
+        "entertainment":2,
+        "nature":0
+      }
+    },
+    {
+      "id":7,
+      "title":"Цюрих",
+      "country":"Швейцария",
+      "coords":"47.3667;8.55",
+      "image_url":"https://www.vse-strani-mira.ru/images/stories/picture2/Zurich/Zurich_007.jpg",
+      "description":"Замечательное, но дорогостоящее пребывание стоит того, чтобы посетить живописные места города.",
+      "filters":
+      {
+        "price":2,
+        "sea":0,
+        "mountains":0,
+        "culture":2,
+        "architecture":2,
+        "shopping":0,
+        "entertainment":1,
+        "nature":0
+      }
+    }
+  ]
+}
