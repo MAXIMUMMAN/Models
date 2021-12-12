@@ -1,0 +1,24 @@
+{
+  data:
+    [
+     {
+      "id":20,
+      "title":"Остров Фрегат",
+      "country":"Сейшелы",
+      "coords":"-4.58528;5.9416532",
+      "image_url":"https://pressa.tv/uploads/posts/2016-07/1469604303_20.jpg",
+      "description":"Здесь можно отдохнуть от повседневной жизни и забыть обо всем, поскольку, тропическая атмосфера острова Фрегат, действительно, уникальна.",
+      "filters":
+      {
+        "price":2,
+        "sea":2,
+        "mountains":0,
+        "culture":1,
+        "architecture":0,
+        "shopping":1,
+        "entertainment":2,
+        "nature":2
+      }
+    }
+    ]
+}
